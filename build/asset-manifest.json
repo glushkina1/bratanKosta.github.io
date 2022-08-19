@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bratanKosta.github.io/static/css/main.f29b9065.css",
+    "main.js": "/bratanKosta.github.io/static/js/main.6714c44d.js",
+    "static/js/787.335366ee.chunk.js": "/bratanKosta.github.io/static/js/787.335366ee.chunk.js",
+    "index.html": "/bratanKosta.github.io/index.html",
+    "main.f29b9065.css.map": "/bratanKosta.github.io/static/css/main.f29b9065.css.map",
+    "main.6714c44d.js.map": "/bratanKosta.github.io/static/js/main.6714c44d.js.map",
+    "787.335366ee.chunk.js.map": "/bratanKosta.github.io/static/js/787.335366ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f29b9065.css",
+    "static/js/main.6714c44d.js"
+  ]
+}
